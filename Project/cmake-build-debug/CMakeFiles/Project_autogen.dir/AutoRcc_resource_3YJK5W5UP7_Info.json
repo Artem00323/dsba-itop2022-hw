@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/Users/artemzaharov/Desktop/Project/cmake-build-debug/Project_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/artemzaharov/Desktop/Project/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/artemzaharov/Desktop/Project/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/artemzaharov/Desktop/Project",
+	"CMAKE_SOURCE_DIR" : "/Users/artemzaharov/Desktop/Project",
+	"INCLUDE_DIR" : "/Users/artemzaharov/Desktop/Project/cmake-build-debug/Project_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/artemzaharov/Desktop/Project/resources/datasets/class.csv",
+		"/Users/artemzaharov/Desktop/Project/resources/datasets/zoo.csv",
+		"/Users/artemzaharov/Desktop/Project/resources/img/logosize.png",
+		"/Users/artemzaharov/Desktop/Project/resources/img/about_img.png",
+		"/Users/artemzaharov/Desktop/Project/resources/img/saveas_img.png",
+		"/Users/artemzaharov/Desktop/Project/resources/img/open_img.png",
+		"/Users/artemzaharov/Desktop/Project/resources/img/logo.png"
+	],
+	"LOCK_FILE" : "/Users/artemzaharov/Desktop/Project/cmake-build-debug/CMakeFiles/Project_autogen.dir/AutoRcc_resource_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/artemzaharov/Desktop/Project/cmake-build-debug/CMakeFiles/Project_autogen.dir/AutoRcc_resource_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/Users/artemzaharov/Desktop/Project/resources/resource.qrc",
+	"VERBOSITY" : 0
+}
