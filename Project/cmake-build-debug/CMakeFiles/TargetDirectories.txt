@@ -1,5 +1,0 @@
-/Users/artemzaharov/Desktop/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/artemzaharov/Desktop/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/artemzaharov/Desktop/Project/cmake-build-debug/CMakeFiles/Project.dir
-/Users/artemzaharov/Desktop/Project/cmake-build-debug/CMakeFiles/Project_autogen_timestamp_deps.dir
-/Users/artemzaharov/Desktop/Project/cmake-build-debug/CMakeFiles/Project_autogen.dir
