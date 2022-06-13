@@ -60,12 +60,11 @@ There were several places, where I decided to take different approach:
 On the main window table with all animals and its features is illustrated. Using double-click the parametres could be changed. Additionally, if you click on any cell of the table, it will be highlighted:). In the status bar the total number of animals is presented. Also, it is hard to show on mac, but there are two buttons in menu bar: “file” with options (“open” and “save as”) and “about”, which opens a page with name of author, project and logo. The button “All animals” opens a window with list of all animals. 
 
 **Animal list**
-
- 
+![Screenshot](allanimals.png) 
 On the animal list window there are 4 buttons. The first one is “sort”, which sorts in ascending and descending order (first click is ascending order and second is descending). The second button is “choose” you click on the animal in the list and click choose, so the program opens an information about this animal with all features and its class. The third button is “add”. You type any word in “textedit” line and press “add”, then the word, which was typed is added to the list of all animals. The last button is “delete”, which deletes the chosen (by click on it) animal. And the number of all animals in status bar. All the changes in “animal list” are directly send to the main table in the mainwindow.
 
 **Animal Info**
- 
+![Screenshot](animalinfo.png)
 The animal info window shows all the class of the animal on the first place, then all its features. Additionally, the name of the window is always changed to the animal, which was chosen and about which the information on this window is. Finally, the total number of features. “add” button: you type any word in “textedit” line and press “add”, then the word, which was typed is added to the list of all animals. The button “delete” deletes the chosen (by click on it) feature.
 
 # Results
