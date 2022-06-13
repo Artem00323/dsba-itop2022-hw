@@ -56,7 +56,7 @@ There were several places, where I decided to take different approach:
 # How it works
 
 **Main window**
-![alt text](https://github.com/Artem00323/dsba-itop2022-hw/edit/master/mainwindow.png?raw=true)
+![alt text](https://github.com/Artem00323/dsba-itop2022-hw/edit/master/mainwindow.png)
 On the main window table with all animals and its features is illustrated. Using double-click the parametres could be changed. Additionally, if you click on any cell of the table, it will be highlighted:). In the status bar the total number of animals is presented. Also, it is hard to show on mac, but there are two buttons in menu bar: “file” with options (“open” and “save as”) and “about”, which opens a page with name of author, project and logo. The button “All animals” opens a window with list of all animals. 
 
 **Animal list**
